@@ -10,6 +10,7 @@ This is the sieve's key distinction from using trial division to sequentially te
 **Algorithmic complexity**
 
 This algorithm requires time complexity of - O(n*log(log(n))).  
+Space complexity : O(n)  
 The basic algorithm requires O(n<sup>2</sup>) of time complexity.
 
 The modified Sieve-Of-Eratosthenes takes O(n) of time complexity which is much less than that of basic algorithm and also less than basic Sieve-Of-Eratosthenes.  
